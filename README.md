@@ -24,7 +24,7 @@ RAG 通过在语言模型生成答案之前，先从广泛的文档数据库中�
     <img src="images/RAG.png" alt="RAG" width="100%">
 </div>
 
-# QuickStrat
+# QuickStart
 
 安装依赖，需要 Python 3.10 以上版本。
 
