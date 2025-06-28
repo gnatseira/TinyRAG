@@ -1,3 +1,5 @@
+> ***注意：本项目以集成到 [Happy-LLM](https://github.com/datawhalechina/happy-llm) 开源项目 Chapter7.2，本项目的后续更新将在 Happy-LLM 项目中进行。***
+
 # Hands on TinyRAG
 
 ## 什么是RAG？
